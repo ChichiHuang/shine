@@ -1,0 +1,7 @@
+[29-Jan-2016 01:29:29 America/Denver] PHP Fatal error:  Call to undefined function getAllNews() in /home2/liorsinc/public_html/daiyang/admin/admin/home/info_list.php on line 9
+[29-Jan-2016 01:30:02 America/Denver] PHP Notice:  Undefined index: info_id in /home2/liorsinc/public_html/daiyang/admin/admin/home/info_list.php on line 9
+[29-Jan-2016 01:44:49 America/Denver] PHP Notice:  Undefined variable: info_info in /home2/liorsinc/public_html/daiyang/admin/admin/home/info_edit.php on line 12
+[29-Jan-2016 01:45:14 America/Denver] PHP Notice:  Undefined variable: info_info in /home2/liorsinc/public_html/daiyang/admin/admin/home/info_edit.php on line 12
+[29-Jan-2016 02:02:53 America/Denver] PHP Notice:  Undefined index: token in /home2/liorsinc/public_html/daiyang/admin/admin/login/checkAdminSession.php on line 53
+[30-Jan-2016 19:34:48 America/Denver] PHP Notice:  Undefined index: news_id in /home2/liorsinc/public_html/daiyang/admin/admin/home/ritual_list.php on line 65
+[30-Jan-2016 19:36:12 America/Denver] PHP Notice:  Undefined index: news_id in /home2/liorsinc/public_html/daiyang/admin/admin/home/ritual_list.php on line 65

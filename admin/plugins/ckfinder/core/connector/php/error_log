@@ -1,0 +1,16 @@
+[31-Jan-2016 06:13:21 America/Denver] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 5
+[31-Jan-2016 06:13:21 America/Denver] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 13
+[31-Jan-2016 06:13:22 America/Denver] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 5
+[31-Jan-2016 06:13:22 America/Denver] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 13
+[31-Jan-2016 06:13:22 America/Denver] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 5
+[31-Jan-2016 06:13:22 America/Denver] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 13
+[31-Jan-2016 06:13:22 America/Denver] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 5
+[31-Jan-2016 06:13:22 America/Denver] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 13
+[31-Jan-2016 06:13:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/core/connector/php/php5/CommandHandler/FileUpload.php on line 2
+[31-Jan-2016 06:13:32 America/Denver] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 5
+[31-Jan-2016 06:13:32 America/Denver] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 13
+[31-Jan-2016 06:13:32 America/Denver] PHP Notice:  Undefined index: loginMember in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/core/connector/php/php5/CommandHandler/FileUpload.php on line 87
+[31-Jan-2016 06:15:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/core/connector/php/php5/CommandHandler/FileUpload.php on line 2
+[31-Jan-2016 06:15:28 America/Denver] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 5
+[31-Jan-2016 06:15:28 America/Denver] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/config.php on line 13
+[31-Jan-2016 06:15:28 America/Denver] PHP Notice:  Undefined index: loginMember in /home2/liorsinc/public_html/daiyang/admin/plugins/ckfinder/core/connector/php/php5/CommandHandler/FileUpload.php on line 87

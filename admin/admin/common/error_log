@@ -1,0 +1,35 @@
+[31-Jan-2016 23:22:33 America/Denver] PHP Parse error:  syntax error, unexpected '%' in /home2/liorsinc/public_html/daiyang/admin/admin/model/life-order.php on line 100
+[31-Jan-2016 23:24:09 America/Denver] PHP Parse error:  syntax error, unexpected '%' in /home2/liorsinc/public_html/daiyang/admin/admin/model/life-order.php on line 100
+[31-Jan-2016 23:24:58 America/Denver] PHP Parse error:  syntax error, unexpected '%' in /home2/liorsinc/public_html/daiyang/admin/admin/model/life-order.php on line 100
+[31-Jan-2016 23:25:33 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/liorsinc/public_html/daiyang/admin/admin/model/life-order.php on line 100
+[31-Jan-2016 23:26:03 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/liorsinc/public_html/daiyang/admin/admin/model/life-order.php on line 100
+[31-Jan-2016 23:26:18 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/liorsinc/public_html/daiyang/admin/admin/model/life-order.php on line 100
+[31-Jan-2016 23:26:28 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 72
+[31-Jan-2016 23:26:43 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 72
+[31-Jan-2016 23:27:34 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 72
+[31-Jan-2016 23:29:14 America/Denver] PHP Fatal error:  Call to undefined function getMemberTotalCount() in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 9
+[31-Jan-2016 23:30:04 America/Denver] PHP Notice:  Undefined variable: member_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 43
+[31-Jan-2016 23:30:04 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 72
+[31-Jan-2016 23:30:21 America/Denver] PHP Fatal error:  Call to undefined function getMemberTotalCount() in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 9
+[31-Jan-2016 23:32:33 America/Denver] PHP Notice:  Undefined variable: member_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 43
+[31-Jan-2016 23:32:33 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 72
+[31-Jan-2016 23:32:38 America/Denver] PHP Notice:  Undefined variable: member_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 43
+[31-Jan-2016 23:32:38 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 72
+[31-Jan-2016 23:33:43 America/Denver] PHP Notice:  Array to string conversion in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 44
+[31-Jan-2016 23:33:43 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 73
+[31-Jan-2016 23:34:28 America/Denver] PHP Notice:  Array to string conversion in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 44
+[31-Jan-2016 23:34:28 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 73
+[31-Jan-2016 23:34:53 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 73
+[31-Jan-2016 23:36:18 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 80
+[31-Jan-2016 23:37:41 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/liorsinc/public_html/daiyang/admin/admin/model/life-order.php on line 100
+[31-Jan-2016 23:38:06 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 80
+[31-Jan-2016 23:38:33 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 80
+[31-Jan-2016 23:38:36 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 80
+[31-Jan-2016 23:39:22 America/Denver] PHP Notice:  Undefined variable: order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 80
+[31-Jan-2016 23:43:30 America/Denver] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 30
+[31-Jan-2016 23:43:48 America/Denver] PHP Fatal error:  Call to undefined function getSLifeOrderTotalCount() in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 23
+[31-Jan-2016 23:43:59 America/Denver] PHP Notice:  Undefined variable: life_order_count in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 92
+[31-Jan-2016 23:43:59 America/Denver] PHP Notice:  Undefined variable: life_order_sum in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 105
+[31-Jan-2016 23:44:49 America/Denver] PHP Notice:  Undefined variable: life_order_sum in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 105
+[31-Jan-2016 23:45:11 America/Denver] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 30
+[31-Jan-2016 23:45:52 America/Denver] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home2/liorsinc/public_html/daiyang/admin/admin/common/index.php on line 30

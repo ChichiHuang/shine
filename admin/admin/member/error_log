@@ -1,0 +1,95 @@
+[27-Jan-2016 22:37:38 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[27-Jan-2016 22:37:38 America/Denver] PHP Notice:  Undefined variable: admin in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 22:37:38 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 22:37:41 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_add.php on line 48
+[27-Jan-2016 22:38:53 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[27-Jan-2016 22:38:53 America/Denver] PHP Notice:  Undefined variable: admin in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 22:38:53 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 22:38:55 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_add.php on line 48
+[27-Jan-2016 22:40:51 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_add.php on line 48
+[27-Jan-2016 22:55:54 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[27-Jan-2016 22:55:54 America/Denver] PHP Notice:  Undefined variable: admin in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 22:55:54 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 22:55:58 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_add.php on line 48
+[27-Jan-2016 22:56:25 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_add.php on line 48
+[27-Jan-2016 22:59:42 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_add.php on line 48
+[27-Jan-2016 22:59:51 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[27-Jan-2016 22:59:51 America/Denver] PHP Notice:  Undefined variable: admin in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 22:59:51 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:11:40 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[27-Jan-2016 23:11:40 America/Denver] PHP Notice:  Undefined variable: admin in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:11:40 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:11:42 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_add.php on line 48
+[27-Jan-2016 23:11:49 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[27-Jan-2016 23:11:49 America/Denver] PHP Notice:  Undefined variable: admin in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:11:49 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:13:13 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[27-Jan-2016 23:13:13 America/Denver] PHP Notice:  Undefined variable: admin in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:13:13 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:13:21 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[27-Jan-2016 23:13:21 America/Denver] PHP Notice:  Undefined variable: admin in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:13:21 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:16:04 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[27-Jan-2016 23:16:04 America/Denver] PHP Notice:  Undefined variable: admin in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:16:04 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:17:52 America/Denver] PHP Notice:  Undefined variable: admin in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 58
+[27-Jan-2016 23:20:59 America/Denver] PHP Notice:  Undefined index: username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 56
+[27-Jan-2016 23:20:59 America/Denver] PHP Notice:  Undefined index: name in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:20:59 America/Denver] PHP Notice:  Undefined index: username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 56
+[27-Jan-2016 23:20:59 America/Denver] PHP Notice:  Undefined index: name in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:20:59 America/Denver] PHP Notice:  Undefined index: username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 56
+[27-Jan-2016 23:20:59 America/Denver] PHP Notice:  Undefined index: name in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:20:59 America/Denver] PHP Notice:  Undefined index: username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 56
+[27-Jan-2016 23:20:59 America/Denver] PHP Notice:  Undefined index: name in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_list.php on line 57
+[27-Jan-2016 23:46:09 America/Denver] PHP Notice:  Undefined variable: a_username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 40
+[27-Jan-2016 23:46:09 America/Denver] PHP Notice:  Undefined variable: a_name in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 46
+[27-Jan-2016 23:46:09 America/Denver] PHP Notice:  Undefined variable: a_username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 50
+[27-Jan-2016 23:47:04 America/Denver] PHP Notice:  Undefined variable: a_username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 40
+[27-Jan-2016 23:47:04 America/Denver] PHP Notice:  Undefined variable: a_name in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 46
+[27-Jan-2016 23:47:04 America/Denver] PHP Notice:  Undefined variable: a_username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 50
+[27-Jan-2016 23:47:39 America/Denver] PHP Notice:  Undefined variable: a_username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 40
+[27-Jan-2016 23:47:39 America/Denver] PHP Notice:  Undefined variable: a_name in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 46
+[27-Jan-2016 23:47:39 America/Denver] PHP Notice:  Undefined variable: a_username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 50
+[27-Jan-2016 23:48:08 America/Denver] PHP Notice:  Undefined variable: a_name in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 46
+[27-Jan-2016 23:48:08 America/Denver] PHP Notice:  Undefined variable: a_username in /home2/liorsinc/public_html/daiyang/admin/admin/member/admin_edit.php on line 50
+[27-Jan-2016 23:57:28 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[27-Jan-2016 23:57:28 America/Denver] PHP Notice:  Undefined variable: sales_id in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 58
+[27-Jan-2016 23:57:28 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 58
+[27-Jan-2016 23:57:28 America/Denver] PHP Notice:  Undefined variable: member in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 61
+[27-Jan-2016 23:57:28 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 61
+[27-Jan-2016 23:57:28 America/Denver] PHP Notice:  Undefined variable: member in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 62
+[27-Jan-2016 23:57:28 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 62
+[27-Jan-2016 23:57:30 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[28-Jan-2016 01:01:29 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[28-Jan-2016 01:01:29 America/Denver] PHP Notice:  Undefined variable: sales_id in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 58
+[28-Jan-2016 01:01:29 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 58
+[28-Jan-2016 01:01:29 America/Denver] PHP Notice:  Undefined variable: member in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 61
+[28-Jan-2016 01:01:29 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 61
+[28-Jan-2016 01:01:29 America/Denver] PHP Notice:  Undefined variable: member in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 62
+[28-Jan-2016 01:01:29 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 62
+[28-Jan-2016 02:38:27 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[28-Jan-2016 02:56:58 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[28-Jan-2016 03:02:58 America/Denver] PHP Notice:  Undefined variable: token in /home2/liorsinc/public_html/daiyang/admin/admin/common/header.php on line 2
+[28-Jan-2016 18:18:49 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_edit.php on line 289
+[28-Jan-2016 18:19:34 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_edit.php on line 289
+[28-Jan-2016 18:20:05 America/Denver] PHP Fatal error:  Cannot redeclare getMember() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:134) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 96
+[28-Jan-2016 18:20:20 America/Denver] PHP Fatal error:  Cannot redeclare getMember() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:134) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 96
+[28-Jan-2016 18:20:51 America/Denver] PHP Fatal error:  Cannot redeclare getMember() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:134) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 96
+[28-Jan-2016 18:23:51 America/Denver] PHP Fatal error:  Cannot redeclare generateHashWithSalt() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:160) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 142
+[28-Jan-2016 18:24:20 America/Denver] PHP Fatal error:  Cannot redeclare generateHashWithSalt() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:160) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 142
+[28-Jan-2016 18:24:33 America/Denver] PHP Fatal error:  Cannot redeclare generateHashWithSalt() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:160) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 142
+[28-Jan-2016 18:24:50 America/Denver] PHP Fatal error:  Cannot redeclare generateHashWithSalt() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:160) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 142
+[28-Jan-2016 18:24:58 America/Denver] PHP Fatal error:  Cannot redeclare generateHashWithSalt() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:160) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 142
+[28-Jan-2016 18:25:13 America/Denver] PHP Fatal error:  Cannot redeclare generateHashWithSalt() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:160) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 142
+[28-Jan-2016 18:25:17 America/Denver] PHP Fatal error:  Cannot redeclare generateHashWithSalt() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:160) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 142
+[28-Jan-2016 18:29:41 America/Denver] PHP Fatal error:  Cannot redeclare generateHashWithSalt() (previously declared in /home2/liorsinc/public_html/daiyang/admin/admin/model/member.php:160) in /home2/liorsinc/public_html/daiyang/admin/admin/model/sales.php on line 142
+[28-Jan-2016 18:32:40 America/Denver] PHP Notice:  Undefined variable: sales_id in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_edit.php on line 58
+[28-Jan-2016 18:32:47 America/Denver] PHP Notice:  Undefined variable: sales_id in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_edit.php on line 58
+[29-Jan-2016 00:10:34 America/Denver] PHP Notice:  Undefined variable: sales_name in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_info.php on line 62
+[29-Jan-2016 00:10:34 America/Denver] PHP Notice:  Undefined variable: sales_number in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_info.php on line 62
+[31-Jan-2016 04:56:28 America/Denver] PHP Fatal error:  Call to undefined function getContractInfo() in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_info.php on line 117
+[31-Jan-2016 04:57:01 America/Denver] PHP Notice:  Undefined variable: order in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_info.php on line 124
+[31-Jan-2016 04:57:20 America/Denver] PHP Notice:  Undefined variable: order in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_info.php on line 124
+[01-Feb-2016 18:54:57 America/Denver] PHP Notice:  Undefined index: member_gorup_name in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_list.php on line 60
+[01-Feb-2016 19:14:44 America/Denver] PHP Notice:  Undefined variable: sales_name in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_info.php on line 67
+[01-Feb-2016 19:14:44 America/Denver] PHP Notice:  Undefined variable: sales_number in /home2/liorsinc/public_html/daiyang/admin/admin/member/member_info.php on line 67
